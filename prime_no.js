@@ -7,7 +7,7 @@ for(let i=0;i<=num;i++){
    }
  }
 
-if(cnt==1){
+if(cnt==2){
   console.log("Prime Number");
 }
 else{
